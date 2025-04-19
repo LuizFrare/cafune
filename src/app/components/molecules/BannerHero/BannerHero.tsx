@@ -11,7 +11,7 @@ export const BannerHero = () => {
           sources={[
             {
               media: '(max-width: 767px)',
-              srcSet: '/BannerHero-mobile.png',
+              srcSet: '/BannerHero-Mobile.png',
             },
             {
               media: '(min-width: 768px)',
